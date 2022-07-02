@@ -2,7 +2,7 @@ const chalk = require("chalk");
 const figlet = require("figlet");
 const inquirer = require("inquirer");
 const request = require("@i-scrapper/plugins-request");
-");
+
 
 const questions = [
     {
